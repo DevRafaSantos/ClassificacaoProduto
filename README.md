@@ -33,7 +33,7 @@ Este projeto tem como objetivo principal demonstrar o uso básico de entrada de 
 ## 🖼️ Imagens do Projeto
 
 ### 📌 Trecho do Código
-![Trecho do Código](assets/code.png)
+![Trecho do Código](assets/code2.png)
 
 ## 📸 Exemplo de Uso
 
